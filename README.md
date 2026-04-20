@@ -160,6 +160,12 @@ This means you can mix providers such as:
 
 ## Installation
 
+Install directly from GitHub:
+
+```bash
+pip install git+https://github.com/ksuuu9-k/ko-llm-eval.git
+```
+
 For local development:
 
 ```bash
