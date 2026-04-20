@@ -39,9 +39,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/your-org/ko-llm-eval"
-Source = "https://github.com/your-org/ko-llm-eval"
-Issues = "https://github.com/your-org/ko-llm-eval/issues"
+Documentation = "https://github.com/ksuuu9-k/ko-llm-eval"
+Source = "https://github.com/ksuuu9-k/ko-llm-eval"
+Issues = "https://github.com/ksuuu9-k/ko-llm-eval/issues"
 
 [project.optional-dependencies]
 dev = [
