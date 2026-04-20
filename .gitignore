@@ -25,6 +25,9 @@ htmlcov/
 .test_artifacts/
 .tmp/
 .build_tmp/
+.pkg_tmp/
+.verify_env/
+.verify_pkg/
 pytest-cache-files-*/
 
 # Local environment files
